@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1474809395 source:c:\users\rospin\desktop\pac0man\pac0man\main.cpp
+	<conio.h>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+
+1474809849 source:c:\users\rospin\desktop\pac0man\pac0man\src\player.cpp
+	"player.h"
+
+1474809837 c:\users\rospin\desktop\pac0man\pac0man\include\player.h
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+
